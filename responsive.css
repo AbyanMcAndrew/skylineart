@@ -27,6 +27,14 @@
     text-align:center;
   }
   
+  .portfolio {
+    text-align:center;
+  }
+  
+  .about {
+    text-align:center;
+  }
+  
   /* Tambahkan CSS untuk top-wrapper */
   .top-wrapper {
     text-align:left;
