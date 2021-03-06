@@ -1,3 +1,7 @@
+*{
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
   font-family: "Lucida Grande";
@@ -11,7 +15,7 @@ a {
 }
 
 .container {
-  width: 1170px;
+  width: 100%px;
   padding: 0 15px;
   margin: 0 auto;
 }
@@ -94,19 +98,4 @@ p.selected hover {
   color:blue;
 }
 
-@media (max-width: 1000px) {
-  .item {
-    width: 50%;
-  }
-}
-
-@media (max-width: 670px) {
-  .item {
-    width: 100%;
-  }
-}
-
-*{
-  box-sizing:border-box;
-}
-
+@media screen and (max-width: 960px) {
