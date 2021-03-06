@@ -12,6 +12,11 @@
     width: 100%;
   }
   
+  body 
+  {background-size:cover;
+    backcground-repeat:no-repeat;
+  }
+  
   footer {
     text-align: center;
   }
