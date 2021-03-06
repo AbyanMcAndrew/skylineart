@@ -106,3 +106,7 @@ p.selected hover {
   }
 }
 
+*{
+  box-sizing:border-box;
+}
+
