@@ -94,4 +94,15 @@ p.selected hover {
   color:blue;
 }
 
-@media screen and (max-width: 960px) {
+@media (max-width: 1000px) {
+  .item {
+    width: 50%;
+  }
+}
+
+@media (max-width: 670px) {
+  .item {
+    width: 100%;
+  }
+}
+
