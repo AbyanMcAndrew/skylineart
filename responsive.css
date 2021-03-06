@@ -19,7 +19,11 @@
     /* Gantikan width btn ke 100% */
     .btn {
       width:100%;
-    }
+      }
+      
+      .portfolio {
+          margin-bottom:10px;
+      }
     
     /* Gantikan margin-bottom facebook ke 10px */
     /* Tambahkan CSS untuk top-wrapper */
